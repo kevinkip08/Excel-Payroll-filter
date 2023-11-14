@@ -13,7 +13,7 @@ This project is a Flask-based web application that allows users to upload two Ex
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/lelchego-excel-filter.git
+  git clone https://github.com/kevinkip08/Excel-Payroll-filter
    ```
 
 2. Install dependencies:
