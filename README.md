@@ -1,6 +1,6 @@
 # Excel-Payroll-filter
 a simple filter of excel files 
-# Project Name
+# Payroll filter
 
 Excel Filter for Lelchego Company Ltd
 
